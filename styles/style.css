@@ -1,0 +1,131 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    width: 1600px;
+    height: 808px;
+    margin-left: 30px;
+    
+
+    
+}
+
+
+.nav-title{
+    color: #151414;
+    font-style:normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    position: absolute;
+    width: 525px;
+    height: 228px;
+left: 845px;
+top: 216px;
+
+}
+.nav-description{
+    color: #444343;
+    font-size: 16px;
+    text-align: right;
+    font-weight: 400;
+    font-style: normal;
+    width: 494px;
+    height: 78px;
+    top: 480px;
+    position: absolute;
+    line-height: 26px;
+    margin-left: 900px;
+    margin-top: 30px;
+}
+.contact{
+width: 160px;
+height: 64px;
+left: 1210px;
+top: 519pxx;
+color: #FFFFFF;
+background: #F15B22;
+border-radius: 5px;
+left: 1190px;
+top: 612px;
+position: absolute;
+font-size: 20px;
+font-weight: 600;
+font-style: normal;
+line-height: 23px;
+margin-top: 10px;
+}
+.title{
+    width: 240px;
+    height: 94px;
+    left: 864px;
+    top: 1198px;
+    position: absolute;
+    font-style: 50px;
+    font-weight: 700;
+    font-style: normal;
+    
+}
+.title-description{
+    width: 400px;
+    height: 100px;
+    left: 864px;
+    top: 1300px;
+font-size: 16px;
+font-weight: 400;
+font-style: normal;
+}
+.a-point{
+    width: 315px;
+    left: 850px;
+    top: 1400px;
+    position: absolute;
+    height: 26px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    color: #444343;
+
+}
+.b-point{
+    width: 206px;
+    left: 850px;
+    top: 1410px;
+    position: absolute;
+    height: 26px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    color: #444343;
+margin-top: 15px;
+}
+.c-point{
+    width: 272px;
+    left: 850px;
+    top: 1435px;
+    position: absolute;
+    height: 26px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    color: #444343;
+margin-top: 15px;
+}
+.d-point{
+    width: 315px;
+    left: 850px;
+    top: 1460px;
+    position: absolute;
+    height: 26px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    color: #444343;
+margin-top: 15px;
+}
+.point{
+width: 569px;
+height: 723.3px;
+margin-left: 20px;
+top: 885px;
+}
